@@ -3,3 +3,7 @@
 ################################################################################
 
 /DSXsharp/obj
+/DSXsharp/bin/Debug
+/DSXsharp.Tests/bin/Debug
+/DSXsharp.Tests/obj/Debug
+/DSXsharp/packages
