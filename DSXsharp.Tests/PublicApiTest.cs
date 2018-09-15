@@ -8,9 +8,9 @@ namespace DSXsharp.Tests
     {
         #region [ Local properties/variables ]
 
-        private const string _appKey = "6c490403-4b36-426a-941e-f157cba90875";
+        private const string _appKey = "YOURKEYHERE";
 
-        private const string _appSecret = "ABIF41XN2Q6TIJWE1SN0O6TX04OEODVSSIZMZACR3VF1";
+        private const string _appSecret = "YOURESECRETHERE";
 
         public DsxClient _client;
 
